@@ -7,6 +7,7 @@
 	<body>
 <header>
 	<nav>
+		<h1>Conetent</h1>
 		<H3>News</H3>
 		<ul>
 			<li>scheduled events</li>
