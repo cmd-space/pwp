@@ -6,8 +6,10 @@
 	</head>
 	<body>
 <header>
+	<img src="images/mobile-wireframe.png" alt="Mobile Wireframe"/>
+	<img src="images/pwp-wireframe.png" alt="Desktop Wireframe"/>
 	<nav>
-		<h1>Conetent</h1>
+		<h1>Content</h1>
 		<H3>News</H3>
 		<ul>
 			<li>scheduled events</li>
@@ -46,6 +48,7 @@
 		</ul>
 	</nav>
 </header>
+
 	</body>
 </html>
 
