@@ -7,12 +7,42 @@
 	<body>
 <header>
 	<nav>
+		<H3>News</H3>
 		<ul>
-			<li></li>
-
-
+			<li>scheduled events</li>
+			<li>music releases</li>
+			<li>now in culture </li>
+			<li>articles</li>
 		</ul>
-		<P
+
+		<H3>Services</H3>
+		<ul>
+			<li>studio recording</li>
+			<li>voice overs</li>
+			<li>music production</li>
+			<li>post production</li>
+		</ul>
+
+		<H3>Artist</H3>
+		<ul>
+			<li>Emel</li>
+			<li>Rival</li>
+			<li>Submissions Reviewed</li>
+		</ul>
+
+		<H3>About Us</H3>
+		<ul>
+			<li>our desire</li>
+			<li></li>
+			<li>our goal</li>
+		</ul>
+
+		<H3>Contact Us</H3>
+		<ul>
+			<li>email form</li>
+			<li>subject line is dropdown that will populate address in “To” line</li>
+			<li>email input</li>
+		</ul>
 	</nav>
 </header>
 	</body>
